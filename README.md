@@ -1,1 +1,1 @@
-Primer proyecto de prueba de Java FX
+Primer Proyecto de prueba de Java FX
